@@ -14,11 +14,11 @@ overflow: visible;
 li {
 position: relative;
 float: left;
-background-color: rgba(255, 226, 148, 0.38);/*#ffe294*/
+background-color: rgba(255, 226, 148, 0.40);/*#ffe294*/
   transition-duration: 0.2s;
 }
 li:hover {
-background-color: rgba(255, 221, 128, 0.64);/*#ffdd80*/
+background-color: rgba(255, 221, 128, 0.65);/*#ffdd80*/
   transition-duration: 0.2s;
 }
 a {
@@ -38,11 +38,11 @@ max-height: 170px;
 }
 ul ul li {
 float: none;
-background-color: rgba(232, 42, 0, 0.43);
+background-color: rgba(232, 42, 0, 0.40);
   transition-duration: 0.2s;
 }
 ul ul li:hover {
-  background-color: rgba(163, 0, 0, 0.55);
+  background-color: rgba(163, 0, 0, 0.65);
   transition-duration: 0.2s;
 }
 
@@ -58,10 +58,10 @@ ul ul li:hover ul {
 width: 130%;
 }
 ul ul ul li {
-background-color: rgba(214, 137, 56, 0.43);
+background-color: rgba(214, 137, 56, 0.40);
   transition-duration: 0.2s;
 }
 ul ul ul li:hover {
-  background-color: rgba(214, 123, 26, 0.61);
+  background-color: rgba(214, 123, 26, 0.65);
   transition-duration: 0.2s;
 }
