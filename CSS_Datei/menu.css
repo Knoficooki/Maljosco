@@ -1,4 +1,4 @@
-.mid {
+.center {
   position: fixed;
   transform: translate(43em,-55q);
 }
@@ -14,11 +14,11 @@ overflow: visible;
 li {
 position: relative;
 float: left;
-background-color: #2baded;
+background-color: #ffe294;/*#ffe294*/
   transition-duration: 0.2s;
 }
 li:hover {
-background-color: #035984;
+background-color: #ffdd80;/*#ffdd80*/
   transition-duration: 0.2s;
 }
 a {
@@ -38,11 +38,11 @@ max-height: 170px;
 }
 ul ul li {
 float: none;
-background-color: #03ecd6;
+background-color: #cc0000;
   transition-duration: 0.2s;
 }
 ul ul li:hover {
-  background-color: #00788d;
+  background-color: #a30000;
   transition-duration: 0.2s;
 }
 
@@ -58,10 +58,10 @@ ul ul li:hover ul {
 width: 130%;
 }
 ul ul ul li {
-background-color: #ef8a18;
+background-color: #ffd09e;
   transition-duration: 0.2s;
 }
 ul ul ul li:hover {
-  background-color: #C77115;
+  background-color: #ffb86b;
   transition-duration: 0.2s;
 }
