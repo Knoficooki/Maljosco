@@ -1,5 +1,5 @@
 body {
-  background-image: "..images/WebBG.png";
+  background-image: url("../images/WebBG.png");
   background-color: #8AB58C;
   font-size:16px;
   margin-top: 12em;
