@@ -1,2 +1,2 @@
-# Cat_Pepe
-This is a project created by Pepe and build by Jann.
+# Maljosco
+This is a project created by Jann Hoffmann for the IT lessons.
