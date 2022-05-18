@@ -4,7 +4,7 @@ body {
   margin-top: 12em;
 }
 h1 {
-  background-color: #027800;
+  
   color: #00a3cf;
   text-align:center;
   position: absolute;
@@ -30,21 +30,6 @@ a:hover {
 }
 .linkMain {
   color: #0594ae;
-}
-.zentriert {
-  text-align:center;
-}
-.behind {
-  width:913px;
-  height:514px;
-  border-radius: 15px;
-  position: fixed;
-}
-.gross {
-  font-size:x-large;
-}
-.underline {
-  text-decoration:underline;
 }
 .katzebild {
   width: 913px;
