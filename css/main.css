@@ -1,5 +1,6 @@
 body {
   background-image: url("../images/WebBG.png");
+  background-repeat: no-repeat;
   background-color: #8AB58C;
   font-size:16px;
   margin-top: 12em;
@@ -7,7 +8,6 @@ body {
 h1 {
   color: #00a3cf;
   text-align:center;
-  border-radius:0px;
   position: absolute;
   left: 50%;
   transform: translate(-50%, -250q);
@@ -16,29 +16,15 @@ h1 {
   text-shadow: 2px 2px #2384ab;
   cursor: default;
 }
-h1:hover {
-  box-shadow: 0 12px 16px 0 rgba(2, 120, 0, 0.23), 0 17px 50px 0 rgba(2, 120, 0, 0.19);
-}
 a {
   font-size: 18px;
   color:  #bd5cc4;
   text-decoration: none;
 }
 a:hover {
-  color: #27ab23;
-  transition-duration: 0.5s;
+  color: #3e3e3e;
+  transition-duration: 0.3s;
 }
-.linkMain {
-  color: #0594ae;
-}
-.katzebild {
-  width: 913px;
-  height: 514px;
-  border-radius: 15px;
-}
-.katzebild:hover {
-  width: 457px;
-  height: 257px;
-  border-radius: 100px;
-  /*transition-duration: 1.0s;*/
+.mainLink {
+  color: #941d1d;
 }
