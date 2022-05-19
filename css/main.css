@@ -11,7 +11,7 @@ h1 {
   text-align:center;
   position: absolute;
   left: 50%;
-  transform: translate(-50%, -250q);
+  transform: translate(-50%, -200q);
   font-size: 80px;
   padding-top: 15px;
   text-shadow: 2px 2px #2384ab;

@@ -9,5 +9,10 @@
   border-radius:5px;
   background-color:#FFFFFF;
   position: relative;
-  transform: translate(0,0q);
+  transform: translate(0,130q);
+}
+.BImageS {
+
+  background-size: cover;
+  background-repeat: no-repeat;
 }
