@@ -5,3 +5,9 @@
   height:500px;
   transform: translate(0,170q);
 }
+.imageBSxP {
+  border-radius:0;
+  background-color:#FFFFFF;
+  position: relative;
+  transform: translate(0,150q);
+}
