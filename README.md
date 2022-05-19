@@ -1,2 +1,3 @@
 # Maljosco
-This is a project created by Jann Hoffmann for the IT lessons.
+
+###This is a project by Jann Hoffmann for computer science classes.
