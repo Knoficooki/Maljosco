@@ -11,8 +11,3 @@
   position: relative;
   transform: translate(0,130q);
 }
-.BImageS {
-  background-image: url("../images/banner1.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
