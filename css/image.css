@@ -6,8 +6,8 @@
   transform: translate(0,170q);
 }
 .imageBSxP {
-  border-radius:0;
+  border-radius:5px;
   background-color:#FFFFFF;
   position: relative;
-  transform: translate(0,80q);
+  transform: translate(0,0q);
 }
