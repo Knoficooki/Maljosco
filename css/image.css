@@ -1,5 +1,6 @@
 .imageB0 {
   border-radius: 10px;
   background-color:#000000;
-  scale:50%;
+  width:500px;
+  height:500px;
 }
