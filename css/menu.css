@@ -5,12 +5,14 @@
 }
 ul {
   background-image: url("../images/banner1.png");
+  background-image: no-repeat;
   margin: 0;
   padding: 0;
   list-style: none;
   overflow: hidden;
 }
 ul:hover {
+  background-image: url("../images/banner1.png");
   overflow: visible;
 }
 li {
