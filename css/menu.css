@@ -4,7 +4,6 @@
   transform: translate(-22em,-55q);
   background-image: url("../images/banner1.png");
   height: 41px;
-  width: 707px;
 }
 ul {
   background-image: url("../images/banner1.png");
@@ -37,7 +36,6 @@ li a {
 }
 /* second level */
 ul ul {
-    background-image: url("../images/banner1.png");
   max-height: 0;
   transition: max-height 1s;
 }
