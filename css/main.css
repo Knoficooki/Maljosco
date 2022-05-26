@@ -29,3 +29,8 @@ a:hover {
 .mainLink {
   color: #941d1d;
 }
+table {
+  background-color: #b6000c;
+  border-radius: 10px;
+
+}
