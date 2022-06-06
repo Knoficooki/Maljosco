@@ -3,7 +3,27 @@
   background-color:#000000;
   width:500px;
   height:500px;
-  transform: translate(0,170q);
+  transform: translate(0px,170q);
+  animation-name: Slide;
+  animation-duration: 1500ms;
+  animation-play-state: running;
+  animation-direction: normal;
+}
+@keyframes Slide {
+  0% {
+    transform: translate(-1000px, 0q);
+  }
+  50%{
+    height: 550px;
+  }
+  70%{
+    transform: translate(700px,0q);
+    height: 450px;
+  }
+  100% {
+    transform: translate(0px, 170q);
+    height: 500px;
+  }
 }
 .imageBSxP {
   border-radius:5px;

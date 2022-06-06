@@ -42,20 +42,22 @@ ul ul {
 }
 ul li:hover ul {
   max-height: 170px;
+  box-shadow: 2px 2px 2px 1px rgba(254, 1, 154, 0.40);
 }
 ul ul li {
   float: none;
-  background-color: rgba(232, 42, 0, 0.40);
+  background-color: rgba(254, 1, 154, 0.40);
   transition-duration: 0.5s;
+  box-shadow: 2px 2px 2px 1px rgba(254, 1, 154, 0.40);
 }
 ul ul li:hover {
-  background-color: rgba(163, 0, 0, 0.65);
+  background-color: rgba(254, 1, 154, 0.65);
   transition-duration: 0.5s;
+  box-shadow: 2px 2px 2px 1px rgba(254, 1, 154, 0.60);
 }
 
 /* third level */
 ul ul ul {
-    background-image: url("../images/banner1.png");
   position: absolute;
   width: 0;
   top: 0;
@@ -64,14 +66,17 @@ ul ul ul {
 }
 ul ul li:hover ul {
   width: 130%;
+  box-shadow: 2px 2px 2px 1px rgba(254, 1, 154, 0.40);
 }
 ul ul ul li {
-  background-color: rgba(214, 137, 56, 0.40);
+  background-color: rgba(254, 1, 154, 0.40);
   transition-duration: 0.5s;
+  box-shadow: 2px 2px 2px 1px rgba(254, 1, 154, 0.40);
 }
 ul ul ul li:hover {
-  background-color: rgba(214, 123, 26, 0.65);
+  background-color: rgba(254, 1, 154, 0.65);
   transition-duration: 0.5s;
+  box-shadow: 2px 2px 2px 1px rgba(254, 1, 154, 0.60);
 }
 
 p {
