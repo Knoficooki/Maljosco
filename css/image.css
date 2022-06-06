@@ -13,10 +13,10 @@
   0% {
     transform: translate(-1000px, 0q);
   }
-  50%{
+  30%{
     height: 550px;
   }
-  70%{
+  50%{
     transform: translate(700px,0q);
     height: 450px;
   }
@@ -25,6 +25,7 @@
     height: 500px;
   }
 }
+
 .imageBSxP {
   border-radius:5px;
   background-color:#FFFFFF;
