@@ -30,6 +30,6 @@ a:hover {
   color: #941d1d;
 }
 table {
-  background-color: #b6000c;
+  background-color: rgba(165, 64, 0, 0.36);
   border-radius: 10px;
 }
