@@ -6,6 +6,7 @@
 }
 .menu {
   background-image: url("../images/banner1.png");
+  background-repeat: repeat-x;
   height: 41px;
 }
 /* first level */
