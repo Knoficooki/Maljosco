@@ -34,4 +34,8 @@
   background-color:#FFFFFF;
   position: relative;
   transform: translate(0,130q);
+  transition-duration: 0.2s;
+}
+.imageBSxP:hover {
+  box-shadow: 5px 5px 10px rgba(39, 39, 39, 0.74);
 }

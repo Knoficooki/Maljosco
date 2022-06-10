@@ -5,10 +5,23 @@
   height: 41px;
 }
 .menu {
-  background-image: url("../images/banner1.png");
-  background-repeat: repeat-x;
+  background: url("../images/banner1.png") 1904px 250px repeat-x;
+  -webkit-animation-name: MOVE-BG;
+  -webkit-animation-duration: 100s;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
   height: 41px;
 }
+
+@-webkit-keyframes MOVE-BG {
+  from {
+    background-position: 0 0
+  }
+  to {
+    background-position: -600% 0
+  }
+}
+
 /* first level */
 ul {
   margin: 0;
@@ -22,17 +35,17 @@ ul:hover {
 li {
   position: relative;
   float: left;
-  background-color: rgba(255, 226, 148, 0.40);
+  background-color: rgba(255, 233, 182, 0.16);
   transition-duration: 0.2s;
 }
 li:hover {
-  background-color: rgba(255, 221, 128, 0.65);
+  background-color: rgba(255, 221, 128, 0.4);
   transition-duration: 0.2s;
 }
 li a {
   display: block;
   padding: 10px 20px;
-  color: #2a5574;
+  color: #00a3cf;
   font-weight: bold;
   text-decoration: none;
   cursor: default;
